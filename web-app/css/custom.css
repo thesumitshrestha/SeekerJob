@@ -1,0 +1,23 @@
+div#profileInfoText {
+    display: inline-block;
+}
+
+#profilePic{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.no-margin{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.no-pad{
+    padding-left: 0px;
+    padding-right: 0px;
+}
